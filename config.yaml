@@ -1,0 +1,7 @@
+gpu: Nvidia 3090 RTX
+cpu: Intel Core i7 10700K
+ram:
+  capacity: 32GB
+  memType: DDR4
+  freq: 4300
+  
